@@ -21,4 +21,9 @@ Things you may want to cover:
 
 * Deployment instructions
 
+* ...
+
+Callbacks
+
+* The find_by_* and find_by_*! methods are dynamic finders generated automatically for every attribute.
 # blog_app
